@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="TheMuppets/proprietary_vendor_xiaomi_sm8250-common" path="vendor/xiaomi/sm8250-common" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_lmi" path="vendor/xiaomi/lmi" revision="lineage-21" clone-depth="1" />
+</manifest>
