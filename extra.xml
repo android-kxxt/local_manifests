@@ -7,4 +7,6 @@
   <project path="vendor/pfa" remote="github" name="android-kxxt/android_vendor_pfa" revision="main" />
   <project path="packages/apps/Shell" remote="github" name="android-kxxt/android_packages_apps_Shell" revision="master" />
   <project path="external/prebuilt_bsdtar" remote="github" name="android-kxxt/external_prebuilt_bsdtar" revision="main" />
+  <project path="external/tailscale" remote="github" name="android-kxxt/external_tailscale" revision="aosp" />
+  <project path="external/tailscale/prebuilt" remote="github" name="android-kxxt/external_tailscale_prebuilt" revision="main" />
 </manifest>
