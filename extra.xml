@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project path="cicd" remote="github" name="android-kxxt/cicd" revision="main" />
+  <project path="ota" remote="github" name="android-kxxt/ota" revision="main" />
   <project path="patches" remote="github" name="android-kxxt/android_patches" revision="main" />
   <project path="hacks" remote="github" name="android-kxxt/android_hacks" revision="main" />
   <project name="android-kxxt/android_vendor_extra" path="vendor/extra" revision="main"/>
